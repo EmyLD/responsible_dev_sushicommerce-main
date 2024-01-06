@@ -1,1 +1,3 @@
-# responsible_dev_sushicommerce
+# Ecommerce website
+
+A website build with react
